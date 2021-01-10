@@ -69,7 +69,7 @@ function setup() {
 } 
 var msg="atreyo";
 function draw() {
-  background("black");
+  background("white");
   textFont("Georgia");
   /*stroke("yellow");
   fill("red");*/
